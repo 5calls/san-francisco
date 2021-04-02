@@ -1,0 +1,198 @@
+- id:
+    fivecalls: conniechan
+    wikipedia: Connie Chan (politician)
+  name:
+    first: Connie
+    last: Chan
+    official_full: Connie Chan
+  bio:
+    birthday: '1978-10-03'
+    gender: F
+  terms:
+  - type: supervisor
+    district: 1
+    party: Democrat
+    phone: 415-554-7410
+    fax: 415-554-5163
+    email: 'ChanStaff@sfgov.org'
+    url: https://sfbos.org/supervisor-chan-district-1
+- id:
+    fivecalls: catherinestefani
+    wikipedia: Catherine Stefani
+  name:
+    first: Catherine
+    last: Stefani
+    official_full: Catherine Stefani
+  bio:
+    birthday: '1969-11-13'
+    gender: F
+  terms:
+  - type: supervisor
+    district: 2
+    party: Democrat
+    phone: 415-554-7752
+    fax: 415-554-7843
+    email: 'Catherine.Stefani@sfgov.org'
+    url: https://sfbos.org/supervisor-stefani-district-2
+- id:
+    fivecalls: aaronpeskin
+    wikipedia: Aaron Peskin
+  name:
+    first: Aaron
+    last: Peskin
+    official_full: Aaron Peskin
+  bio:
+    birthday: '1964-06-17'
+    gender: M
+  terms:
+  - type: supervisor
+    district: 3
+    party: Democrat
+    phone: 415-554-7450
+    fax: 415-554-7454
+    email: 'Aaron.Peskin@sfgov.org'
+    url: https://sfbos.org/supervisor-peskin
+- id:
+    fivecalls: gordonmar
+    wikipedia: Gordon Mar
+  name:
+    first: Gordon
+    last: Mar
+    official_full: Gordon Mar
+  bio:
+    birthday: '1964-08-15'
+    gender: M
+  terms:
+  - type: supervisor
+    district: 4
+    party: Democrat
+    phone: 415-554-7460
+    fax: 415-554-7432
+    email: 'marstaff@sfgov.org'
+    url: https://sfbos.org/supervisor-mar-district-4
+- id:
+    fivecalls: deanpreston
+    wikipedia: Dean Preston
+  name:
+    first: Dean
+    last: Preston
+    official_full: Dean Preston
+  bio:
+    birthday: '1969-01-01'
+    gender: M
+  terms:
+  - type: supervisor
+    district: 5
+    party: Democrat
+    phone: 415-554-7630
+    fax: 415-554-7634
+    email: 'Dean.Preston@sfgov.org'
+    url: https://sfbos.org/supervisor-preston-district-5
+- id:
+    fivecalls: matthaney
+    wikipedia: Matt Haney
+  name:
+    first: Matt
+    last: Haney
+    official_full: Matt Haney
+  bio:
+    birthday: '1982-04-17'
+    gender: M
+  terms:
+  - type: supervisor
+    district: 6
+    party: Democrat
+    phone: 415-554-7970
+    fax: 415-554-7974
+    email: 'Matt.Haney@sfgov.org'
+    url: https://sfbos.org/supervisor-haney-district-6
+- id:
+    fivecalls: myrnamelgar
+    wikipedia: Myrna Melgar
+  name:
+    first: Myrna
+    last: Melgar
+    official_full: Myrna Melgar
+  bio:
+    birthday: '1901-01-01'
+    gender: F
+  terms:
+  - type: supervisor
+    district: 7
+    party: Democrat
+    phone: 415-554-6516
+    fax: 415-554-5163
+    email: 'MelgarStaff@sfgov.org'
+    url: https://sfbos.org/supervisor-melgar-district-7
+- id:
+    fivecalls: rafaelmandelman
+    wikipedia: Rafael Mandelman
+  name:
+    first: Rafael
+    last: Mandelman
+    official_full: Rafael Mandelman
+  bio:
+    birthday: '1901-01-01'
+    gender: M
+  terms:
+  - type: supervisor
+    district: 8
+    party: Democrat
+    phone: 415-554-6968
+    fax: 415-554-6909
+    email: 'MandelmanStaff@sfgov.org'
+    url: https://sfbos.org/supervisor-mandelman-district-8
+- id:
+    fivecalls: hillaryronen
+    wikipedia: Hillary Ronen
+  name:
+    first: Hillary
+    last: Ronen
+    official_full: Hillary Ronen
+  bio:
+    birthday: '1975-12-22'
+    gender: F
+  terms:
+  - type: supervisor
+    district: 9
+    party: Democrat
+    phone: 415-554-5144
+    fax: 415-554-6255
+    email: 'Hillary.Ronen@sfgov.org'
+    url: https://sfbos.org/supervisor-ronen-district-9
+- id:
+    fivecalls: shamannwalton
+    wikipedia: Shamann Walton
+  name:
+    first: Shamann
+    last: Walton
+    official_full: Shamann Walton
+  bio:
+    birthday: '1901-02-19'
+    gender: M
+  terms:
+  - type: supervisor
+    district: 10
+    party: Democrat
+    phone: 415-554-7670
+    fax: 415-554-7674
+    email: 'Shamann.Walton@sfgov.org'
+    url: https://sfbos.org/supervisor-walton-district-10
+- id:
+    fivecalls: ahshasafai
+    wikipedia: Shamann Walton
+  name:
+    first: Ahsha
+    last: Safai
+    official_full: Ahsha Safai
+  bio:
+    birthday: '1973-01-01'
+    gender: M
+  terms:
+  - type: supervisor
+    district: 11
+    party: Democrat
+    phone: 415-554-6975
+    fax: 415-554-6979
+    email: 'Ahsha.Safai@sfgov.org'
+    url: https://sfbos.org/supervisor-safai-district-11
