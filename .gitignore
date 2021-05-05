@@ -1,0 +1,6 @@
+# ignore stupid system things
+.DS_Store
+
+# ignore our generated formats
+images/256
+images/512
